@@ -101,6 +101,6 @@ Instead:
 To know how often significant results are real, you need to consider:
 
 - How often effects are actually real
-- How strong they are
-- How much data you collect
+- How big the effects are 
+- Sample size
 """)
